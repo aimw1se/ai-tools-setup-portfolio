@@ -11,7 +11,6 @@ This repository documents the installation and setup process of AI-assisted deve
 
 
 # Tools Installed
-
 - Cursor IDE
 - Claude Code
 - Codex
