@@ -5,7 +5,7 @@
 
 # Overview
 This repository documents the installation and setup process of AI-assisted development tools as part of the 100Hires portfolio project.
-# Tools Installed
+## Tools Installed
 - Cursor IDE
 - Claude Code
 - Codex
@@ -33,6 +33,8 @@ Reviewed documentation and experimented with the tools until they were successfu
 - GitHub basics
 - Documentation practices
 - Independent problem solving
+## Future Invest
+I am interested in exploring how AI technologies can improve business operations, finance, taxation processes, productivity, and decision-making.
 
 ## Author
 
