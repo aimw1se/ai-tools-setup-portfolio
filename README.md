@@ -35,6 +35,4 @@ Reviewed documentation and experimented with the tools until they were successfu
 I am interested in exploring how AI technologies can improve business operations, finance, taxation processes, productivity, and decision-making.
 
 ## Author
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/bulognanvwlademir/bulognanvwlademir/master/name.svg" alt="Bulognan Vwlademir" />
-</h1>
+Bulognan Vwlademir Simanjuntak
