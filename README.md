@@ -6,8 +6,6 @@
 # Overview
 
 This repository documents the installation and setup process of AI-assisted development tools as part of the 100Hires portfolio project.
-
-
 # Tools Installed
 
 - Cursor IDE
