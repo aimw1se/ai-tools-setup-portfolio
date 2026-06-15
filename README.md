@@ -36,5 +36,5 @@ I am interested in exploring how AI technologies can improve business operations
 
 ## Author
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Bulognan Vwlademir" />
+  <img src="https://raw.githubusercontent.com/bulognanvwlademir/bulognanvwlademir/master/name.svg" alt="Bulognan Vwlademir" />
 </h1>
